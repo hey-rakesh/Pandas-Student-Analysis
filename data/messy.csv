@@ -1,0 +1,101 @@
+student_id,name,age,gender,city,department,marks,attendance,internship,placement,salary,joining_date
+1001, Aman Sharma ,20,Male, Indore ,AIML,85,92%,Yes,Placed,25k,2024-07-15
+1002,riya verma,21,female,BHOPAL,CSE,92,88%,NO,not placed,30k,15/07/2024
+1003,RAHUL SINGH,19,MALE,indore, aiml ,67,76%,yes,PLACED,20k,2024-08-01
+1004, Priya Mehra,22,Female,Delhi ,ECE,78,81%,No,Not Placed,35k,2024/08/12
+1005,karan patel,20, male ,Bhopal,cse,88,95%,YES,placed,40k,12-08-2024
+1006,NEHA JOSHI ,21,FEMALE,INDORE,AIML,91,89%,Yes,Placed,28k,2024-08-20
+1007, rohit kumar,23,Male, bhopal ,CSE ,74,72%,no,NOT PLACED,?,01/09/2024
+1008,Sneha Gupta,20,female,DELHI,ece,95,98%,Yes,Placed,45k,2024-09-15
+1009,ARJUN YADAV ,19,MALE,Indore,AIML,81,84%,No,placed,32k,15/09/2024
+1010, pooja sharma,22,Female,Bhopal , CSE,69,69%,NO,Not Placed,18k,2024-10-01
+1011,Vikas Verma,21,Male,Delhi,AIML,87,92%,Yes,Placed,25k,2024-07-15
+1012, ANJALI SINGH,20,female, indore,cse,76,88%,NO,not placed,30k,15/07/2024
+1013,mohit patel ,?,MALE,BHOPAL ,ECE ,82,76%,yes,PLACED,20k,2024-08-01
+1014,Simran Jain,22,Female,Delhi,AIML,?,81%,No,Not Placed,35k,2024/08/12
+1015, DEEPAK SHARMA ,21, male ,INDORE , CSE ,90,95%,YES,placed,40k,12-08-2024
+1016,kavya verma,20,FEMALE,Bhopal,ece,73,89%,Yes,Placed,28k,2024-08-20
+1017,RAJ MALVIYA,23,Male,delhi,AIML,96,72%,no,NOT PLACED,?,01/09/2024
+1018, Nisha Gupta,19,female,Indore,CSE,84,98%,Yes,Placed,45k,2024-09-15
+1019,Aakash Singh ,21,MALE,Bhopal,aiml,79,84%,No,placed,32k,15/09/2024
+1020,MEENA JOSHI,22,Female,DELHI ,ECE,88,69%,NO,Not Placed,18k,2024-10-01
+1021,varun patel,20,Male, Indore ,AIML,85,92%,Yes,Placed,25k,2024-07-15
+1022, Isha Sharma,21,female,BHOPAL,CSE,92,88%,NO,not placed,30k,15/07/2024
+1023,ROHAN VERMA ,19,MALE,indore, aiml ,67,76%,yes,PLACED,20k,2024-08-01
+1024,sakshi jain,22,Female,Delhi ,ECE,78,81%,No,Not Placed,35k,2024/08/12
+1025,Aditya Singh,20, male ,Bhopal,cse,88,95%,YES,placed,40k,12-08-2024
+1026, MUSKAN GUPTA ,21,FEMALE,INDORE,AIML,91,89%,Yes,Placed,28k,2024-08-20
+1027,harsh yadav,23,Male, bhopal ,CSE ,74,72%,no,NOT PLACED,?,01/09/2024
+1028,DIVYA SHARMA,20,female,DELHI,ece,95,98%,Yes,Placed,45k,2024-09-15
+1029,Nitin Patel ,19,MALE,Indore,AIML,81,84%,No,placed,32k,15/09/2024
+1030, komal verma,22,Female,Bhopal , CSE,69,69%,NO,Not Placed,18k,2024-10-01
+1031,AYUSH SINGH,21,Male,Delhi,AIML,87,92%,Yes,Placed,25k,2024-07-15
+1032,Tanya Joshi ,20,female, indore,cse,76,88%,NO,not placed,30k,15/07/2024
+1033,manish gupta,?,MALE,BHOPAL ,ECE ,82,76%,yes,PLACED,20k,2024-08-01
+1034, SHREYA JAIN,22,Female,Delhi,AIML,?,81%,No,Not Placed,35k,2024/08/12
+1035,Ravi Sharma,21, male ,INDORE , CSE ,90,95%,YES,placed,40k,12-08-2024
+1036,pallavi verma ,20,FEMALE,Bhopal,ece,73,89%,Yes,Placed,28k,2024-08-20
+1037,SAHIL PATEL,23,Male,delhi,AIML,96,72%,no,NOT PLACED,?,01/09/2024
+1038, Ananya Singh,19,female,Indore,CSE,84,98%,Yes,Placed,45k,2024-09-15
+1039,gaurav yadav,21,MALE,Bhopal,aiml,79,84%,No,placed,32k,15/09/2024
+1040,RITIKA GUPTA,22,Female,DELHI ,ECE,88,69%,NO,Not Placed,18k,2024-10-01
+1041,Abhishek Sharma ,20,Male, Indore ,AIML,85,92%,Yes,Placed,25k,2024-07-15
+1042,priti verma,21,female,BHOPAL,CSE,92,88%,NO,not placed,30k,15/07/2024
+1043,YASH PATEL,19,MALE,indore, aiml ,67,76%,yes,PLACED,20k,2024-08-01
+1044, Simran Singh,22,Female,Delhi ,ECE,78,81%,No,Not Placed,35k,2024/08/12
+1045,NAVEEN JAIN,20, male ,Bhopal,cse,88,95%,YES,placed,40k,12-08-2024
+1046,aditi sharma ,21,FEMALE,INDORE,AIML,91,89%,Yes,Placed,28k,2024-08-20
+1047,Rohit Verma,23,Male, bhopal ,CSE ,74,72%,no,NOT PLACED,?,01/09/2024
+1048, NEHA PATEL,20,female,DELHI,ece,95,98%,Yes,Placed,45k,2024-09-15
+1049,kunal singh,19,MALE,Indore,AIML,81,84%,No,placed,32k,15/09/2024
+1050,ISHITA GUPTA,22,Female,Bhopal , CSE,69,69%,NO,Not Placed,18k,2024-10-01
+1051,Aman Sharma,21,Male,Delhi,AIML,87,92%,Yes,Placed,25k,2024-07-15
+1052, Riya Verma ,20,female, indore,cse,76,88%,NO,not placed,30k,15/07/2024
+1053,rahul singh,?,MALE,BHOPAL ,ECE ,82,76%,yes,PLACED,20k,2024-08-01
+1054,PRIYA MEHRA,22,Female,Delhi,AIML,?,81%,No,Not Placed,35k,2024/08/12
+1055,Karan Patel ,21, male ,INDORE , CSE ,90,95%,YES,placed,40k,12-08-2024
+1056,naman sharma,20,FEMALE,Bhopal,ece,73,89%,Yes,Placed,28k,2024-08-20
+1057, SHIVANI VERMA,23,Male,delhi,AIML,96,72%,no,NOT PLACED,?,01/09/2024
+1058,Varun Patel,19,female,Indore,CSE,84,98%,Yes,Placed,45k,2024-09-15
+1059,isha sharma ,21,MALE,Bhopal,aiml,79,84%,No,placed,32k,15/09/2024
+1060,ROHAN VERMA,22,Female,DELHI ,ECE,88,69%,NO,Not Placed,18k,2024-10-01
+1061,Sakshi Jain,20,Male, Indore ,AIML,85,92%,Yes,Placed,25k,2024-07-15
+1062,ADITYA SINGH ,21,female,BHOPAL,CSE,92,88%,NO,not placed,30k,15/07/2024
+1063,muskan gupta,19,MALE,indore, aiml ,67,76%,yes,PLACED,20k,2024-08-01
+1064, Harsh Yadav,22,Female,Delhi ,ECE,78,81%,No,Not Placed,35k,2024/08/12
+1065,DIVYA SHARMA ,20, male ,Bhopal,cse,88,95%,YES,placed,40k,12-08-2024
+1066,nitin patel,21,FEMALE,INDORE,AIML,91,89%,Yes,Placed,28k,2024-08-20
+1067, KOMAL VERMA,23,Male, bhopal ,CSE ,74,72%,no,NOT PLACED,?,01/09/2024
+1068,Ayush Singh,20,female,DELHI,ece,95,98%,Yes,Placed,45k,2024-09-15
+1069,TANYA JOSHI,19,MALE,Indore,AIML,81,84%,No,placed,32k,15/09/2024
+1070,manish gupta ,22,Female,Bhopal , CSE,69,69%,NO,Not Placed,18k,2024-10-01
+1071,Shreya Jain,21,Male,Delhi,AIML,87,92%,Yes,Placed,25k,2024-07-15
+1072, RAVI SHARMA,20,female, indore,cse,76,88%,NO,not placed,30k,15/07/2024
+1073,Pallavi Verma ,?,MALE,BHOPAL ,ECE ,82,76%,yes,PLACED,20k,2024-08-01
+1074,SAHIL PATEL,22,Female,Delhi,AIML,?,81%,No,Not Placed,35k,2024/08/12
+1075,ananya singh,21, male ,INDORE , CSE ,90,95%,YES,placed,40k,12-08-2024
+1076, GAURAV YADAV ,20,FEMALE,Bhopal,ece,73,89%,Yes,Placed,28k,2024-08-20
+1077,Ritika Gupta,23,Male,delhi,AIML,96,72%,no,NOT PLACED,?,01/09/2024
+1078,abhishek sharma,19,female,Indore,CSE,84,98%,Yes,Placed,45k,2024-09-15
+1079,PRITI VERMA,21,MALE,Bhopal,aiml,79,84%,No,placed,32k,15/09/2024
+1080,Yash Patel ,22,Female,DELHI ,ECE,88,69%,NO,Not Placed,18k,2024-10-01
+1081,Naman Sharma,20,Male, Indore ,AIML,85,92%,Yes,Placed,25k,2024-07-15
+1082,shivani verma,21,female,BHOPAL,CSE,92,88%,NO,not placed,30k,15/07/2024
+1083,VARUN PATEL ,19,MALE,indore, aiml ,67,76%,yes,PLACED,20k,2024-08-01
+1084,Isha Sharma,22,Female,Delhi ,ECE,78,81%,No,Not Placed,35k,2024/08/12
+1085,rohan verma,20, male ,Bhopal,cse,88,95%,YES,placed,40k,12-08-2024
+1086, SAKSHI JAIN,21,FEMALE,INDORE,AIML,91,89%,Yes,Placed,28k,2024-08-20
+1087,Aditya Singh ,23,Male, bhopal ,CSE ,74,72%,no,NOT PLACED,?,01/09/2024
+1088,muskan gupta,20,female,DELHI,ece,95,98%,Yes,Placed,45k,2024-09-15
+1089,Harsh Yadav,19,MALE,Indore,AIML,81,84%,No,placed,32k,15/09/2024
+1090, DIVYA SHARMA,22,Female,Bhopal , CSE,69,69%,NO,Not Placed,18k,2024-10-01
+1091,Nitin Patel ,21,Male,Delhi,AIML,87,92%,Yes,Placed,25k,2024-07-15
+1092,komal verma,20,female, indore,cse,76,88%,NO,not placed,30k,15/07/2024
+1093,AYUSH SINGH ,?,MALE,BHOPAL ,ECE ,82,76%,yes,PLACED,20k,2024-08-01
+1094,Tanya Joshi,22,Female,Delhi,AIML,?,81%,No,Not Placed,35k,2024/08/12
+1095,MANISH GUPTA,21, male ,INDORE , CSE ,90,95%,YES,placed,40k,12-08-2024
+1001, Aman Sharma ,20,Male, Indore ,AIML,85,92%,Yes,Placed,25k,2024-07-15
+1002,riya verma,21,female,BHOPAL,CSE,92,88%,NO,not placed,30k,15/07/2024
+1003,RAHUL SINGH,19,MALE,indore, aiml ,67,76%,yes,PLACED,20k,2024-08-01
+1051,Aman Sharma,21,Male,Delhi,AIML,87,92%,Yes,Placed,25k,2024-07-15
+1052, Riya Verma ,20,female, indore,cse,76,88%,NO,not placed,30k,15/07/2024

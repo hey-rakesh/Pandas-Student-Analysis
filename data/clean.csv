@@ -1,0 +1,96 @@
+student_id,name,age,gender,city,department,marks,attendance,internship,placement,salary,joining_date
+1001,Aman Sharma,20,Male,Indore,AIML,85.0,92,Yes,Placed,25000,2024-07-15
+1002,Riya Verma,21,Female,Bhopal,CSE,92.0,88,No,Not Placed,30000,2024-07-15
+1003,Rahul Singh,19,Male,Indore,AIML,67.0,76,Yes,Placed,20000,2024-08-01
+1004,Priya Mehra,22,Female,Delhi,ECE,78.0,81,No,Not Placed,35000,2024-08-12
+1005,Karan Patel,20,Male,Bhopal,CSE,88.0,95,Yes,Placed,40000,2024-12-08
+1006,Neha Joshi,21,Female,Indore,AIML,91.0,89,Yes,Placed,28000,2024-08-20
+1007,Rohit Kumar,23,Male,Bhopal,CSE,74.0,72,No,Not Placed,30314,2024-01-09
+1008,Sneha Gupta,20,Female,Delhi,ECE,95.0,98,Yes,Placed,45000,2024-09-15
+1009,Arjun Yadav,19,Male,Indore,AIML,81.0,84,No,Placed,32000,2024-09-15
+1010,Pooja Sharma,22,Female,Bhopal,CSE,69.0,69,No,Not Placed,18000,2024-10-01
+1011,Vikas Verma,21,Male,Delhi,AIML,87.0,92,Yes,Placed,25000,2024-07-15
+1012,Anjali Singh,20,Female,Indore,CSE,76.0,88,No,Not Placed,30000,2024-07-15
+1013,Mohit Patel,21,Male,Bhopal,ECE,82.0,76,Yes,Placed,20000,2024-08-01
+1014,Simran Jain,22,Female,Delhi,AIML,83.0,81,No,Not Placed,35000,2024-08-12
+1015,Deepak Sharma,21,Male,Indore,CSE,90.0,95,Yes,Placed,40000,2024-12-08
+1016,Kavya Verma,20,Female,Bhopal,ECE,73.0,89,Yes,Placed,28000,2024-08-20
+1017,Raj Malviya,23,Male,Delhi,AIML,96.0,72,No,Not Placed,30314,2024-01-09
+1018,Nisha Gupta,19,Female,Indore,CSE,84.0,98,Yes,Placed,45000,2024-09-15
+1019,Aakash Singh,21,Male,Bhopal,AIML,79.0,84,No,Placed,32000,2024-09-15
+1020,Meena Joshi,22,Female,Delhi,ECE,88.0,69,No,Not Placed,18000,2024-10-01
+1021,Varun Patel,20,Male,Indore,AIML,85.0,92,Yes,Placed,25000,2024-07-15
+1022,Isha Sharma,21,Female,Bhopal,CSE,92.0,88,No,Not Placed,30000,2024-07-15
+1023,Rohan Verma,19,Male,Indore,AIML,67.0,76,Yes,Placed,20000,2024-08-01
+1024,Sakshi Jain,22,Female,Delhi,ECE,78.0,81,No,Not Placed,35000,2024-08-12
+1025,Aditya Singh,20,Male,Bhopal,CSE,88.0,95,Yes,Placed,40000,2024-12-08
+1026,Muskan Gupta,21,Female,Indore,AIML,91.0,89,Yes,Placed,28000,2024-08-20
+1027,Harsh Yadav,23,Male,Bhopal,CSE,74.0,72,No,Not Placed,30314,2024-01-09
+1028,Divya Sharma,20,Female,Delhi,ECE,95.0,98,Yes,Placed,45000,2024-09-15
+1029,Nitin Patel,19,Male,Indore,AIML,81.0,84,No,Placed,32000,2024-09-15
+1030,Komal Verma,22,Female,Bhopal,CSE,69.0,69,No,Not Placed,18000,2024-10-01
+1031,Ayush Singh,21,Male,Delhi,AIML,87.0,92,Yes,Placed,25000,2024-07-15
+1032,Tanya Joshi,20,Female,Indore,CSE,76.0,88,No,Not Placed,30000,2024-07-15
+1033,Manish Gupta,21,Male,Bhopal,ECE,82.0,76,Yes,Placed,20000,2024-08-01
+1034,Shreya Jain,22,Female,Delhi,AIML,83.0,81,No,Not Placed,35000,2024-08-12
+1035,Ravi Sharma,21,Male,Indore,CSE,90.0,95,Yes,Placed,40000,2024-12-08
+1036,Pallavi Verma,20,Female,Bhopal,ECE,73.0,89,Yes,Placed,28000,2024-08-20
+1037,Sahil Patel,23,Male,Delhi,AIML,96.0,72,No,Not Placed,30314,2024-01-09
+1038,Ananya Singh,19,Female,Indore,CSE,84.0,98,Yes,Placed,45000,2024-09-15
+1039,Gaurav Yadav,21,Male,Bhopal,AIML,79.0,84,No,Placed,32000,2024-09-15
+1040,Ritika Gupta,22,Female,Delhi,ECE,88.0,69,No,Not Placed,18000,2024-10-01
+1041,Abhishek Sharma,20,Male,Indore,AIML,85.0,92,Yes,Placed,25000,2024-07-15
+1042,Priti Verma,21,Female,Bhopal,CSE,92.0,88,No,Not Placed,30000,2024-07-15
+1043,Yash Patel,19,Male,Indore,AIML,67.0,76,Yes,Placed,20000,2024-08-01
+1044,Simran Singh,22,Female,Delhi,ECE,78.0,81,No,Not Placed,35000,2024-08-12
+1045,Naveen Jain,20,Male,Bhopal,CSE,88.0,95,Yes,Placed,40000,2024-12-08
+1046,Aditi Sharma,21,Female,Indore,AIML,91.0,89,Yes,Placed,28000,2024-08-20
+1047,Rohit Verma,23,Male,Bhopal,CSE,74.0,72,No,Not Placed,30314,2024-01-09
+1048,Neha Patel,20,Female,Delhi,ECE,95.0,98,Yes,Placed,45000,2024-09-15
+1049,Kunal Singh,19,Male,Indore,AIML,81.0,84,No,Placed,32000,2024-09-15
+1050,Ishita Gupta,22,Female,Bhopal,CSE,69.0,69,No,Not Placed,18000,2024-10-01
+1051,Aman Sharma,21,Male,Delhi,AIML,87.0,92,Yes,Placed,25000,2024-07-15
+1052,Riya Verma,20,Female,Indore,CSE,76.0,88,No,Not Placed,30000,2024-07-15
+1053,Rahul Singh,21,Male,Bhopal,ECE,82.0,76,Yes,Placed,20000,2024-08-01
+1054,Priya Mehra,22,Female,Delhi,AIML,83.0,81,No,Not Placed,35000,2024-08-12
+1055,Karan Patel,21,Male,Indore,CSE,90.0,95,Yes,Placed,40000,2024-12-08
+1056,Naman Sharma,20,Female,Bhopal,ECE,73.0,89,Yes,Placed,28000,2024-08-20
+1057,Shivani Verma,23,Male,Delhi,AIML,96.0,72,No,Not Placed,30314,2024-01-09
+1058,Varun Patel,19,Female,Indore,CSE,84.0,98,Yes,Placed,45000,2024-09-15
+1059,Isha Sharma,21,Male,Bhopal,AIML,79.0,84,No,Placed,32000,2024-09-15
+1060,Rohan Verma,22,Female,Delhi,ECE,88.0,69,No,Not Placed,18000,2024-10-01
+1061,Sakshi Jain,20,Male,Indore,AIML,85.0,92,Yes,Placed,25000,2024-07-15
+1062,Aditya Singh,21,Female,Bhopal,CSE,92.0,88,No,Not Placed,30000,2024-07-15
+1063,Muskan Gupta,19,Male,Indore,AIML,67.0,76,Yes,Placed,20000,2024-08-01
+1064,Harsh Yadav,22,Female,Delhi,ECE,78.0,81,No,Not Placed,35000,2024-08-12
+1065,Divya Sharma,20,Male,Bhopal,CSE,88.0,95,Yes,Placed,40000,2024-12-08
+1066,Nitin Patel,21,Female,Indore,AIML,91.0,89,Yes,Placed,28000,2024-08-20
+1067,Komal Verma,23,Male,Bhopal,CSE,74.0,72,No,Not Placed,30314,2024-01-09
+1068,Ayush Singh,20,Female,Delhi,ECE,95.0,98,Yes,Placed,45000,2024-09-15
+1069,Tanya Joshi,19,Male,Indore,AIML,81.0,84,No,Placed,32000,2024-09-15
+1070,Manish Gupta,22,Female,Bhopal,CSE,69.0,69,No,Not Placed,18000,2024-10-01
+1071,Shreya Jain,21,Male,Delhi,AIML,87.0,92,Yes,Placed,25000,2024-07-15
+1072,Ravi Sharma,20,Female,Indore,CSE,76.0,88,No,Not Placed,30000,2024-07-15
+1073,Pallavi Verma,21,Male,Bhopal,ECE,82.0,76,Yes,Placed,20000,2024-08-01
+1074,Sahil Patel,22,Female,Delhi,AIML,83.0,81,No,Not Placed,35000,2024-08-12
+1075,Ananya Singh,21,Male,Indore,CSE,90.0,95,Yes,Placed,40000,2024-12-08
+1076,Gaurav Yadav,20,Female,Bhopal,ECE,73.0,89,Yes,Placed,28000,2024-08-20
+1077,Ritika Gupta,23,Male,Delhi,AIML,96.0,72,No,Not Placed,30314,2024-01-09
+1078,Abhishek Sharma,19,Female,Indore,CSE,84.0,98,Yes,Placed,45000,2024-09-15
+1079,Priti Verma,21,Male,Bhopal,AIML,79.0,84,No,Placed,32000,2024-09-15
+1080,Yash Patel,22,Female,Delhi,ECE,88.0,69,No,Not Placed,18000,2024-10-01
+1081,Naman Sharma,20,Male,Indore,AIML,85.0,92,Yes,Placed,25000,2024-07-15
+1082,Shivani Verma,21,Female,Bhopal,CSE,92.0,88,No,Not Placed,30000,2024-07-15
+1083,Varun Patel,19,Male,Indore,AIML,67.0,76,Yes,Placed,20000,2024-08-01
+1084,Isha Sharma,22,Female,Delhi,ECE,78.0,81,No,Not Placed,35000,2024-08-12
+1085,Rohan Verma,20,Male,Bhopal,CSE,88.0,95,Yes,Placed,40000,2024-12-08
+1086,Sakshi Jain,21,Female,Indore,AIML,91.0,89,Yes,Placed,28000,2024-08-20
+1087,Aditya Singh,23,Male,Bhopal,CSE,74.0,72,No,Not Placed,30314,2024-01-09
+1088,Muskan Gupta,20,Female,Delhi,ECE,95.0,98,Yes,Placed,45000,2024-09-15
+1089,Harsh Yadav,19,Male,Indore,AIML,81.0,84,No,Placed,32000,2024-09-15
+1090,Divya Sharma,22,Female,Bhopal,CSE,69.0,69,No,Not Placed,18000,2024-10-01
+1091,Nitin Patel,21,Male,Delhi,AIML,87.0,92,Yes,Placed,25000,2024-07-15
+1092,Komal Verma,20,Female,Indore,CSE,76.0,88,No,Not Placed,30000,2024-07-15
+1093,Ayush Singh,21,Male,Bhopal,ECE,82.0,76,Yes,Placed,20000,2024-08-01
+1094,Tanya Joshi,22,Female,Delhi,AIML,83.0,81,No,Not Placed,35000,2024-08-12
+1095,Manish Gupta,21,Male,Indore,CSE,90.0,95,Yes,Placed,40000,2024-12-08
