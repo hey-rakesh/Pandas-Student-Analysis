@@ -69,7 +69,7 @@ This project was created to practice:
 * Create a Streamlit dashboard
 * Add department-wise performance charts
 * Add city-wise performance analysis
-* Add student ranking system
+
 
 ## 👨‍💻 Author
 
