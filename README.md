@@ -20,7 +20,6 @@ This project demonstrates practical Pandas operations such as filtering, groupin
 
 * **Python**
 * **Pandas**
-* **CSV Dataset**
 * **VS Code**
 
 ## 📁 Project Structure
